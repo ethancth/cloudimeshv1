@@ -1,0 +1,23 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Home",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "pages-home"
+    },
+    {
+      "name": "My Project",
+      "icon": "menu-icon tf-icons ti ti-book",
+      "slug": "project",
+      "url": "project"
+
+    },
+    {
+      "url": "page-2",
+      "icon": "menu-icon tf-icons ti ti-file",
+      "name": "Page 2",
+      "slug": "pages-page-2"
+    }
+  ]
+}
